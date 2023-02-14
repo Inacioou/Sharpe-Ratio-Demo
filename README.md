@@ -1,7 +1,8 @@
 
 # Sharpe Ratio Demo
 
-Description: This repository provides an analysis of the Sharpe ratio and its applicability in investment and portfolio management. The Sharpe ratio is a widely used measure of risk-adjusted return, which considers the excess return of a portfolio over a risk-free rate per unit of volatility.
+## Description 
+This repository provides an analysis of the Sharpe ratio and its applicability in investment and portfolio management. The Sharpe ratio is a widely used measure of risk-adjusted return, which considers the excess return of a portfolio over a risk-free rate per unit of volatility.
 
 The repository includes Python code for calculating the Sharpe ratio, along with comparison between amazon and facebook against the s&p 500 to show its application.
 
