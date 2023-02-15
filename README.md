@@ -15,7 +15,7 @@ The Sharpe Ratio for Amazon is 0.0445. This indicates that Amazon has a moderate
 ### Facebook:
 The Sharpe Ratio for Facebook is 0.0351. This indicates that Facebook has a low level of risk-adjusted returns. The low Sharpe Ratio suggests that the company's returns are not as high as other investments with similar risk levels.
 
-## S&P 500:
+### S&P 500:
 The Sharpe Ratio for the S&P 500 index is 0.0558. This indicates that the S&P 500 has a high level of risk-adjusted returns. The high Sharpe Ratio suggests that the S&P 500 is a better investment compared to Amazon and Facebook, in terms of risk-adjusted returns.
 
 ## Conclusion:
